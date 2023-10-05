@@ -1,3 +1,3 @@
-import streamfit
+import streamlit
 
-streamfit.title('My Parents Healthy Diner')
+streamlit.title('My Parents Healthy Diner')
